@@ -2,7 +2,10 @@ import React from 'react'
 
 const Pnf = () => {
   return (
-    <div>Pnf</div>
+    <>
+          <div className='text-red-600'>Page not Found</div>
+    </>
+
   )
 }
 
